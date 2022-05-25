@@ -1,1 +1,1 @@
-cp is a copy command
+mv [A-Z]
