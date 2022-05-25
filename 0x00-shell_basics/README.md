@@ -1,1 +1,1 @@
-ls -lna display directory contents in long, numerical and hidden formats with a .
+mkdir -p creates a directory in another directory
