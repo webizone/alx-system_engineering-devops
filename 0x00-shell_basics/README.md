@@ -1,1 +1,1 @@
-mkdir -p creates a directory in another directory
+mkdir creates a new directory
