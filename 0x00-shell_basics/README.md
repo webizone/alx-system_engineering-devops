@@ -1,1 +1,1 @@
-mv [A-Z]
+rm removes file
