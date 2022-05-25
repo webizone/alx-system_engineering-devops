@@ -1,1 +1,1 @@
-rm removes a file
+rmdir removes a directory
