@@ -1,1 +1,1 @@
-ls -la . .. /boot does list
+file prints type of file
