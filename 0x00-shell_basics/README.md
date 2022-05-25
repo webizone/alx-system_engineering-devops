@@ -1,1 +1,1 @@
-file prints type of file
+ln -s creates a symbolic link in the current directory
