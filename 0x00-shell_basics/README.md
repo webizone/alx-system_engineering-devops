@@ -1,1 +1,1 @@
-mkdir creates a new directory
+mv moves a file
