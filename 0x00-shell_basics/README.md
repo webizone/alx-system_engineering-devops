@@ -1,1 +1,1 @@
-mv moves a file
+rm removes a file
